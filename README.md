@@ -10,4 +10,4 @@
 <title>Version movil</title>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wC3vB3VCDgk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <title>Codigo QR del repositorio</title>
-![image](https://user-images.githubusercontent.com/91873325/207976408-f6020ca2-4706-42c6-bb96-4774ca170ce3.png)
+<img>https://user-images.githubusercontent.com/91873325/207976408-f6020ca2-4706-42c6-bb96-4774ca170ce3.png</img>
