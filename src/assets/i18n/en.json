@@ -1,0 +1,58 @@
+{
+    "home":{
+        "title":"His language is English",
+        "langButtom": "Change language",
+        "labels":"Visual Configuration",
+        "titlemercados":"Market Value",
+        "mercado":"Stock Market"
+
+    },
+    "Markets":{
+        "title":"Markets Management",
+        "aviso":"Are you sure you want to delete the market?"
+    },
+    "Position":{
+        "title":"Position Management",
+        "aviso":"Are you sure you want to delete a position?"
+    },
+    "Assignments":{
+        "title":"Position assignment in the Market",
+        "aviso":"Are you sure you want to delete the homework assignment?"
+
+    },
+    "Market-detail":{
+        "title":"Data of the market",
+        "nombre":"Name",
+        "pais":"Country",
+        "horario":"Time",
+        "imagen":"Picture",
+        "modificar":"Modify"
+    },
+    "Position-detail":{
+        "posicioninicial":"Open position Value",
+        "title":"Position data",
+        "nombre":"Name",
+        "duracion":"Duration",
+        "imagen":"Picture"
+    },
+    "button": {
+        "new": "New",
+        "edit": "Edit",
+        "delete": "Delete",
+        "close": "Close",
+        "cancel": "Cancel",
+        "apply": "Apply",
+        "cerrar":"Close"
+      },
+      "app":{
+        "oscuro":"Dark",
+        "claro":"Light"
+      },
+      "about":{
+        "title":"About",
+        "informacion":"Information",
+        "text":"We are a small company in its initial phase, which we are in charge of managing a small portfolio of clients and their positions, and we offer market information in real time.",
+        "redessociales": "Social Network"
+      }
+
+}

@@ -1,0 +1,38 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>{{'Position-detail.title' | translate}}</ion-title>
+    <ion-buttons slot="end">
+      <ion-button (click)="onDismiss(null)">{{'button.close' | translate}}</ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+<ion-content class="ion-padding">
+  <form [formGroup]="form" (ngSubmit)="onSubmit()" (keyup.enter)="onSubmit()">
+    
+    <ion-item>
+      <ion-label position="floating">
+        {{'Position-detail.nombre' | translate}}
+      </ion-label>
+      <ion-input type="text" placeholder="Introduce el nombre" formControlName="name"></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label position="floating">
+        {{'Position-detail.duracion' | translate}}
+      </ion-label>
+      <ion-input type="number" placeholder="Introduce la duración" formControlName="time"></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label position="floating">
+        {{'Position-detail.posicioninicial' | translate}}
+      </ion-label>
+      <ion-input type="number" placeholder="Introduzca el valor de posicion Inicial" formControlName="valor"></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label position="floating">
+        {{'Position-detail.imagen' | translate}}
+      </ion-label>
+      <ion-input type="text" placeholder="Introduce tu horario" formControlName="picture"></ion-input>
+    </ion-item>
+    <ion-button color="success" [disabled]="!form.valid" type="submit">{{(mode=="Edit"?"button.edit":"button.new") | translate}}</ion-button>
+  </form>
+</ion-content>
