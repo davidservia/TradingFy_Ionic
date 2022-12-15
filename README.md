@@ -4,10 +4,11 @@
 <p>Este proyecto cuenta con iframes, dinamicos y operables.</p>
 <p>Tambien cuenta con una pagina de informacion sobre su creador y unos diseños muy esteticos </p>
 <title>En estos videos podemos apreciar su funcionamiento</title>
-<title>Version Desktop</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DftiG-pLs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h2>Version Desktop</h2>
+<p>https://www.youtube.com/embed/4DftiG-pLs8</p> 
 <p></p>
-<title>Version movil</title>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wC3vB3VCDgk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<title>Codigo QR del repositorio</title>
-<img>https://user-images.githubusercontent.com/91873325/207976408-f6020ca2-4706-42c6-bb96-4774ca170ce3.png</img>
+<h2>Version movil</h2>
+<p>https://www.youtube.com/embed/wC3vB3VCDgk</p> 
+<h2>Codigo QR del repositorio</h2>
+![image](https://user-images.githubusercontent.com/91873325/207976684-90782c20-4b12-4002-ad37-3c0bb1e05aa8.png)
+
