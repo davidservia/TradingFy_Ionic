@@ -3,7 +3,7 @@
 <p>Este proyecto consta de una aplicacion de plataforma de bolsa, con un crud de mercados y Posiciones(activos)</p>
 <p>Este proyecto cuenta con iframes, dinamicos y operables.</p>
 <p>Tambien cuenta con una pagina de informacion sobre su creador y unos diseños muy esteticos </p>
-<title>En estos videos podemos apreciar su funcionamiento</title>
+<h1>En estos videos podemos apreciar su funcionamiento</h1>
 <h2>Version Desktop</h2>
 <p>https://www.youtube.com/embed/4DftiG-pLs8</p> 
 <p></p>
